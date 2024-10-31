@@ -1,0 +1,12 @@
+.scrollmagic-ele.drawsvg svg {
+  width: 100%; }
+.wpmp_icon_draw_svg{
+  background: url(../admin/images/drawsvg.png) !important;
+  background-size: cover !important; }
+.wpmp_icon_sequence_image{
+  background: url(../admin/images/sequence.png) !important;
+  background-size: cover !important; }
+.wpmp_icon_split_text{
+  background: url(../admin/images/splittext.png) !important;
+  background-size: cover !important; }
+/*# sourceMappingURL=wpmp.css.map */
